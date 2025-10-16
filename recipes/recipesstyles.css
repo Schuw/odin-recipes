@@ -1,0 +1,24 @@
+* {
+    font-family: Verdana, sans-serif;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+body{
+    background-color: #e9e6e1;
+}
+
+h1 {
+    text-align: center;
+    color: #90604c;
+    padding: 10px;
+    background-color: #e1d3b6;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
