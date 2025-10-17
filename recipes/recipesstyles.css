@@ -22,3 +22,20 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+body {
+    padding: 100px;
+    margin: 10px auto;
+}
+
+.bottomline {
+    text-align: center;
+}
+
+a:link {
+    color: #90604c;
+}
+
+a:visited {
+    color: #a3967d;
+}
